@@ -1,6 +1,6 @@
 {
   "name": "stria-icons-react-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@stria-icons/react": "^0.1.0",
+    "@stria-icons/react": "^0.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
